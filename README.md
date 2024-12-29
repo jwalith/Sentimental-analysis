@@ -27,14 +27,6 @@ This project implements a **Sentiment Analysis** tool for flight reviews, allowi
 - **Tkinter**: For the graphical user interface.
 - **Machine Learning**: Model training and predictions.
 
-## Installation
-
-- Clone this repository: `git clone <repo-url>`
-- Install the required dependencies: `pip install -r requirements.txt`
-
-## Demo
-
-![Demo Screenshot](demo.png)  # Include a screenshot or GIF of the GUI
 
 ## Acknowledgments
 
@@ -42,7 +34,5 @@ This project is based on a sentiment analysis model trained on flight review dat
 
 ---
 
-Feel free to suggest edits or add a demo if you'd like! Let me know if you need further modifications.
-"""
 
-readme_template
+
