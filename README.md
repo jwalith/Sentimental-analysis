@@ -1,6 +1,48 @@
-# Sentimental-analysis
+# Flight Review Sentiment Analysis
 
-Sentimental Analysis On Flight Reviews(Virgin America And United Airlines) Based On The Passengers Flying Experience 
-The problem in sentiment analysis is classifying the polarity of a given text at the document, sentence, or feature/aspect level  Sentiment Analysis to determine the attitude of the mass is positive, negative or neutral towards the subject of interest.
+This project implements a **Sentiment Analysis** tool for flight reviews, allowing users to classify feedback as either positive ("Good Review") or negative ("Bad Review") On Flight Reviews(Virgin America And United Airlines) Based On The Passengers Flying Experience . The analysis is powered by a trained machine learning model and features a GUI for user interaction.
 
-In this project, we have proposed methods for Segregating the Passenger Reviews Based on Their Flying Experience. The Feedback Is A Binary Classification which Has Only 2 Values Either Positive Or Negative. This model can be used by the airlines companies to provide a better flying experience for their passengers
+## Features
+
+- **Sentiment Prediction**: Classifies flight reviews into positive or negative categories.
+- **User-Friendly Interface**: GUI built using Tkinter for input and prediction display.
+- **Machine Learning**: Utilizes a pre-trained model for robust sentiment analysis.
+
+## How to Use
+
+1. **Launch the Application**:
+   - Open the notebook in Google Colab or your local environment.
+   - Run the cells to load the necessary libraries and start the application.
+
+2. **Enter Text for Prediction**:
+   - Input a flight review in the provided text box.
+   - Click the `Predict` button to get a classification result.
+
+3. **View Results**:
+   - The application displays the entered text and its classification as either "Good Review" or "Bad Review."
+
+## Technologies Used
+
+- **Python**: For scripting and model development.
+- **Tkinter**: For the graphical user interface.
+- **Machine Learning**: Model training and predictions.
+
+## Installation
+
+- Clone this repository: `git clone <repo-url>`
+- Install the required dependencies: `pip install -r requirements.txt`
+
+## Demo
+
+![Demo Screenshot](demo.png)  # Include a screenshot or GIF of the GUI
+
+## Acknowledgments
+
+This project is based on a sentiment analysis model trained on flight review data.
+
+---
+
+Feel free to suggest edits or add a demo if you'd like! Let me know if you need further modifications.
+"""
+
+readme_template
